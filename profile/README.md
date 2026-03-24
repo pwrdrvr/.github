@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pwrdrvr/pwrdrvr.github.io/main/assets/logos/PwrDrvr-P-Logo-Simple-500.png" width="120" alt="PwrDrvr Logo" />
+  <img src="./assets/logo.png" width="120" alt="PwrDrvr Logo" />
 </p>
 
 <h3 align="center">PwrDrvr LLC</h3>
