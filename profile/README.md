@@ -19,7 +19,8 @@
 Desktop apps for people who write code with an agent sitting next to them. Free,
 MIT-licensed, and running entirely on your machine — no account to create, no
 telemetry, and no PwrDrvr-operated server in the request path. macOS builds are
-Developer ID-signed and Apple-notarized under PwrDrvr LLC.
+Developer ID-signed and Apple-notarized; Windows installers and the executables
+inside them are signed through Azure Trusted Signing — both under PwrDrvr LLC.
 
 | Product | | |
 |---|---|---|
