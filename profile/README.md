@@ -42,7 +42,6 @@ infrastructure written because production needed them.
 | [**Lambda Dispatch**](https://github.com/pwrdrvr/lambda-dispatch) | High-performance request router for AWS Lambda — concurrent request handling within a single invocation, reducing cold starts and improving throughput |
 | [**MicroApps**](https://github.com/pwrdrvr/microapps-core) | Framework for deploying and routing independently-versioned micro-frontend applications on AWS |
 | [**ghcrawl**](https://github.com/pwrdrvr/ghcrawl) | Terminal UI for crawling GitHub issues and PRs, generating embeddings, and clustering related work |
-| [**OpenClaw Codex App Server**](https://github.com/pwrdrvr/openclaw-codex-app-server) | An OpenClaw plugin bridging the Codex App Server protocol to Telegram and Discord |
 
 ---
 
