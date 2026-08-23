@@ -17,8 +17,7 @@
 ### Products
 
 Desktop apps for people who write code with an agent sitting next to them. Free,
-MIT-licensed, and running entirely on your machine — no account to create, no
-telemetry, and no PwrDrvr-operated server in the request path. macOS builds are
+MIT-licensed, and running on the machine you are sitting at. macOS builds are
 Developer ID-signed and Apple-notarized; Windows installers and the executables
 inside them are signed through Azure Trusted Signing — both under PwrDrvr LLC.
 
@@ -30,7 +29,7 @@ inside them are signed through Azure Trusted Signing — both under PwrDrvr LLC.
 
 The optional AI features ride the agent you already have — your installed
 Codex / ChatGPT app and subscription, or Kimi, Qwen, or Grok Build over ACP —
-billed to the plan you already pay for. No PwrDrvr API key, ever.
+billed to the plan you already pay for.
 
 ### Open-source projects
 
