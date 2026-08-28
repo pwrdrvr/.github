@@ -17,20 +17,67 @@
 ### Products
 
 Desktop apps for people who write code with an agent sitting next to them. Free,
-MIT-licensed, and running entirely on your machine — no account to create, no
-telemetry, and no PwrDrvr-operated server in the request path. macOS builds are
+MIT-licensed, and running on the machine you are sitting at. macOS builds are
 Developer ID-signed and Apple-notarized; Windows installers and the executables
 inside them are signed through Azure Trusted Signing — both under PwrDrvr LLC.
 
-| Product | | |
-|---|---|---|
-| [**PwrAgent**](https://github.com/pwrdrvr/PwrAgent) | Your coding agent runs on your laptop; you drive it from your phone. Pair it once with Telegram, Discord, Slack, Mattermost, Feishu / Lark, or LINE, then start, resume, steer, and approve from wherever you are. | [pwragent.ai](https://pwragent.ai) · [docs](https://docs.pwragent.ai) |
-| [**PwrSnap**](https://github.com/pwrdrvr/PwrSnap) | Screen capture that respects your time and your sensitive data. Drag a region and it is on your clipboard in under a second; optional AI drafts the arrows and blurs the API key it spots. | [pwrsnap.com](https://pwrsnap.com) · [docs](https://docs.pwrsnap.com) |
-| **PwrGit** | Coming soon. | |
+<table>
+  <tr>
+    <td width="86" align="center" valign="middle">
+      <a href="https://pwragent.ai"><img src="./assets/pwragent.png" width="64" alt=""></a>
+    </td>
+    <td valign="middle">
+      <h4><a href="https://pwragent.ai">PwrAgent</a></h4>
+      <b>Many agents. Many machines. One map.</b><br>
+      Run coding agents across every machine you own — federated threads, one harness
+      driving and reviewing another's, messaging-triggered automations, and a star map
+      to navigate it instead of a sidebar.<br>
+      <sub>
+        <a href="https://pwragent.ai">pwragent.ai</a> ·
+        <a href="https://docs.pwragent.ai">docs</a> ·
+        <a href="https://github.com/pwrdrvr/PwrAgent">source</a> ·
+        <a href="https://github.com/pwrdrvr/PwrAgent/releases/latest">download</a>
+      </sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="86" align="center" valign="middle">
+      <a href="https://pwrsnap.com"><img src="./assets/pwrsnap.png" width="64" alt=""></a>
+    </td>
+    <td valign="middle">
+      <h4><a href="https://pwrsnap.com">PwrSnap</a></h4>
+      <b>Screen capture that respects your time — and your sensitive data.</b><br>
+      Drag a region and it is on your clipboard in under a second. Annotate, blur, and
+      record on macOS and Windows; optional AI drafts the arrows and blurs the API key
+      it spots, and your agents reach the Library over MCP.<br>
+      <sub>
+        <a href="https://pwrsnap.com">pwrsnap.com</a> ·
+        <a href="https://docs.pwrsnap.com">docs</a> ·
+        <a href="https://github.com/pwrdrvr/PwrSnap">source</a> ·
+        <a href="https://github.com/pwrdrvr/PwrSnap/releases/latest">download</a>
+      </sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="86" align="center" valign="middle">
+      <a href="https://pwrgit.com"><img src="./assets/pwrgit.png" width="64" alt=""></a>
+    </td>
+    <td valign="middle">
+      <h4><a href="https://pwrgit.com">PwrGit</a></h4>
+      <b>Git for people working alongside an agent.</b><br>
+      Review, stage, and land the changes an agent wrote — worktree-first, on macOS
+      and Windows.<br>
+      <sub>
+        <a href="https://pwrgit.com">pwrgit.com</a> ·
+        <a href="https://docs.pwrgit.com">docs</a>
+      </sub>
+    </td>
+  </tr>
+</table>
 
 The optional AI features ride the agent you already have — your installed
-Codex / ChatGPT app and subscription, or Kimi, Qwen, or Grok Build over ACP —
-billed to the plan you already pay for. No PwrDrvr API key, ever.
+Codex / ChatGPT app and subscription, or Grok, Kimi Code, or Qwen Code over ACP —
+billed to the plan you already pay for.
 
 ### Open-source projects
 
